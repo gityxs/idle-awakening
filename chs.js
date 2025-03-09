@@ -1503,7 +1503,7 @@ var cnItems = {
     "Jacorb's Games": "Jacorb's Games",
     "v0.0.7a": "v0.0.7a",
     "NaN": "NaN",
-    "actions-learning": "actions-learning",
+    "actions-learning": "行动学习",
     "": "",
     "": "",
     "Scientific": "科学计数法",
